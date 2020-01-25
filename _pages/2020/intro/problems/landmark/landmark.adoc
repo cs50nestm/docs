@@ -2,13 +2,11 @@
 layout: 2019/ap
 ---
 
-= Problem: Homepage
+= Problem: Landmark
 
 == tl;dr
 
 Build a simple homepage using HTML and CSS.
-
-include::../../honesty.adoc[]
 
 == Background
 
